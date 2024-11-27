@@ -9,7 +9,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/docker/public/fotos/mediacollege.jpg) no-repeat;
+    background: url(fotos/mediacollege.jpg) no-repeat;
     background-size: auto;
     background-position: center;
   }
